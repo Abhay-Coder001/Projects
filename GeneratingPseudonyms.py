@@ -10,4 +10,9 @@ that conforms to those guidelines.
 THE OBJECTIVE
 Randomly generate funny sidekick names using Python code that conforms
 to established style guidelines.
+
+The Strategy
+You’ll start with two lists—first and last—of funny names. The lists will be relatively
+short, so they won’t be memory intensive, won’t need to be dynamically updated, and
+shouldn’t present any runtime issues.
 """
